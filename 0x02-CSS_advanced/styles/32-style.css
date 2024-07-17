@@ -55,7 +55,7 @@
     --header-logo-link-left: 0;
     --nav-item-link-hover: var(--color-white);
     --transition-duration: .3s;
-    --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01)
+    --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
 }
 
 *, *::before, *::after {
